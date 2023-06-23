@@ -25,4 +25,4 @@ a2enconf phpmyadmin
 systemctl reload apache2
 mkdir /usr/share/phpmyadmin/temp
 chown -R www-data:www-data /usr/share/phpmyadmin/temp
-mysql -u user -p < install.sql
+mysql -u root -p < mysql.sql
