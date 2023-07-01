@@ -31,10 +31,6 @@ echo "
 
 
 
-rebooting in 30 seconds"
-sleep 10
-echo "rebooting in 20 seconds"
-sleep 10
 echo "rebooting in 10 seconds"
 sleep 7
 echo "3"

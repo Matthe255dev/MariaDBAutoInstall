@@ -6,4 +6,4 @@ chmod +x autoscript.sh
 chmod +x mysql.sql
 sleep 1
 mysql_secure_installation
-./autoscript.sh
+zsh autoscript.sh
